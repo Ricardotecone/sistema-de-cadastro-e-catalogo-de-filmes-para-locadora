@@ -1,0 +1,17 @@
+na class ator 
+tem que ter a função obter atuações, que retorna lista de atuações
+
+class atorFilmes renomear para Atuação
+
+genero simplificar para ser string na class filme
+
+parametro quantidade total e quantidade de estoque escolher apenas um 
+
+dentro da class filme verificar a disponibilidade
+
+verificar_disponibilidade() mudar para verificar_disponiveis()
+
+obter_atores() mudar para obter_atuação() e receber uma lista de atuação 
+o mesmo acontece para obter filmes que vira obter_atuação()
+
+adiconar_filme() na class Ator tem que ser removido, dentro de Atuação adicionarAtuação()
