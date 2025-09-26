@@ -16,6 +16,7 @@ class Ator:
         self.filmes: List[Filme] = []
     
     def obter_filmes(self) -> List['Filme']:
+        print(self.filmes)
         return self.filmes
     
     def adicionar_filme(self, filme: 'Filme'):
